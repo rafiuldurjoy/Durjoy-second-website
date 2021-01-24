@@ -51,7 +51,7 @@ section{
     width: 27%;
     float: left;
     margin: 0px 3%;
-    background-color:red;
+    background-color: tan;
     border-radius: 5%;
 
 }
@@ -63,9 +63,7 @@ section{
     margin-left: 38%;
 
 }
-.project{
-    background-color: rgba(245, 245, 245, 0.26);
-}
+
 .project-text{
     margin-left: 10px;
 }
@@ -76,6 +74,7 @@ section{
     margin-left: 13%;
     background-size: 1000px 250px;
     background-repeat: no-repeat; 
+    margin-top: 40px;
 }
 
 .new4{
